@@ -1,0 +1,584 @@
+{
+  "featureCollection": [
+    {
+      "id": 1,
+      "title": "Converse Chuck Taylor All Star Platform",
+      "img": "/public/sneakers/sneaker1.png",
+      "price": "219.90"
+    },
+
+    {
+      "id": 2,
+      "title": "NikeLab ACG Lupinek Flyknit SFB",
+      "img": "/public/sneakers/sneaker2.png",
+      "price": "550.90"
+    },
+
+    {
+      "id": 3,
+      "title": "Vans Sk8-Hi Reissue (Vintage) Windsor",
+      "img": "/public/sneakers/sneaker4.png",
+      "price": "399.99"
+    },
+
+    {
+      "id": 4,
+      "title": "Converse Weapon",
+      "img": "/public/sneakers/sneaker5.png",
+      "price": "389,99"
+    },
+
+    {
+      "id": 5,
+      "title": "Balenciaga Speed Trainer",
+      "img": "/public/sneakers/sneaker10.png",
+      "price": "799.99"
+    },
+
+    {
+      "id": 6,
+      "title": "Air Yeezy 2 'Red October' PK ULTRA",
+      "img": "/public/sneakers/sneaker28.png",
+      "price": "5679.99"
+    },
+
+    {
+      "id": 7,
+      "title": "Nike LeBron 10 BHM Black History Month",
+      "img": "/public/sneakers/sneaker27.png",
+      "price": "2859.99"
+    }
+  ],
+
+  "popularBrands": [
+    {
+      "id": 1,
+      "img": "/public/brands/brand1"
+    },
+
+    {
+      "id": 2,
+      "img": "/public/brands/brand2"
+    },
+
+    {
+      "id": 3,
+      "img": "/public/brands/brand3"
+    },
+
+    {
+      "id": 4,
+      "img": "/public/brands/brand4"
+    },
+
+    {
+      "id": 5,
+      "img": "/public/brands/brand5"
+    },
+
+    {
+      "id": 6,
+      "img": "/public/brands/brand6"
+    },
+
+    {
+      "id": 7,
+      "img": "/public/brands/brand7"
+    },
+
+    {
+      "id": 8,
+      "img": "/public/brands/brand8"
+    },
+
+    {
+      "id": 9,
+      "img": "/public/brands/brand9"
+    },
+
+    {
+      "id": 10,
+      "img": "/public/brands/brand10"
+    },
+
+    {
+      "id": 11,
+      "img": "/public/brands/brand11"
+    },
+
+    {
+      "id": 12,
+      "img": "/public/brands/brand12"
+    }
+  ],
+
+  "footwear": [
+    {
+      "id": 1,
+      "title": "Converse Chuck Taylor All Star Platform",
+      "img": "/public/sneakers/sneaker1.png",
+      "description": "Comfortable and versatile, the off-white Converse sneaker is made of canvas and has a mid-cut upper, an upper with the brand's logo, lace-up closure, a soft insole, and a flatform sole with stripes. The Converse shape is larger than the full-size grille. For greater comfort, we advise you to choose a smaller size.",
+      "price": "219.90",
+      "rating": 4,
+      "numReviews": 10,
+      "type": "High Top",
+      "brand": "Converse",
+      "countinStock": 20
+    },
+
+    {
+      "id": 2,
+      "title": "NikeLab ACG Lupinek Flyknit SFB",
+      "img": "/public/sneakers/sneaker2.png",
+      "description": "It's got waterproof leather, water-resistant Flyknit, a memory foam collar and sticky rubber for traction. While the upper here is new, the tooling on bottom is the the familiar SFB platform.",
+      "price": "550.90",
+      "rating": 5,
+      "numReviews": 4,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 7
+    },
+
+    {
+      "id": 3,
+      "title": "Vans U Era 59",
+      "img": "/public/sneakers/sneaker3.png",
+      "description": "The Era 59 C&L from Vans, the classic lace-up low-top skate shoe, features a durable double-stitched canvas upper, leather heel detail, metal eyelets, a padded collar for support and flexibility, and an original Waffle sole, brand rubber.",
+      "price": "280.90",
+      "rating": 4.5,
+      "numReviews": 25,
+      "type": "Low Top",
+      "brand": "Vans",
+      "countinStock": 40
+    },
+
+    {
+      "id": 4,
+      "title": "Vans Sk8-Hi Reissue (Vintage) Windsor",
+      "img": "/public/sneakers/sneaker4.png",
+      "description": "The Sk8-Hi Reissue Vintage by Vans is the perfect shoe for everyday wear. With rubber soles and quality leather your feet will thank you for the comfort and style all day long. The classic look combined with comfort makes for the ultimate casual shoe. The Sk8-Hi Reissue Vintage by Vans will be the perfect complement to your wardrobe.",
+      "price": "399.99",
+      "rating": 4,
+      "numReviews": 15,
+      "type": "High Top",
+      "brand": "Vans",
+      "countinStock": 20
+    },
+
+    {
+      "id": 5,
+      "title": "Converse Chuck Taylor Monochrome Leather Hi",
+      "img": "/public/sneakers/sneaker5.png",
+      "description": "The Converse ALL STAR CT AS Mono Chrome Leather HI sneakers bring the monochromatic trend to complete your casual look.",
+      "price": "239.80",
+      "rating": 4.6,
+      "numReviews": 24,
+      "type": "High Top",
+      "brand": "Converse",
+      "countinStock": 40
+    },
+
+    {
+      "id": 6,
+      "title": "Converse Weapon",
+      "img": "/public/sneakers/sneaker6.png",
+      "description": "The 1986 court icon was completely transformed for the future. The vintage color block on the upper, made of premium leather, meets the padded collar and rubber outsole for maximum comfort.",
+      "price": "689.99",
+      "rating": 4.7,
+      "numReviews": 9,
+      "type": "High Top",
+      "brand": "Converse",
+      "countinStock": 2
+    },
+
+    {
+      "id": 7,
+      "title": "One Star Pro Suede",
+      "img": "/public/sneakers/sneaker7.png",
+      "description": "The skater favorite One Star Pro is updated in new colors and durable, rubber-backed suede.",
+      "price": "189.99",
+      "rating": 4.8,
+      "numReviews": 25,
+      "type": "Low Top",
+      "brand": "Converse",
+      "countinStock": 65
+    },
+
+    {
+      "id": 8,
+      "title": "Chuck Taylor All Star Lift Platform Canvas",
+      "img": "/public/sneakers/sneaker8.png",
+      "description": "Inspired by the iconic looks of '90s girl bands, these platform Chucks are sure to turn heads. Canvas can be as refined or edgy as you'd like, while a double-stacked sole takes you higher.",
+      "price": "256.00",
+      "rating": 4.8,
+      "numReviews": 25,
+      "type": "High Top",
+      "brand": "Converse",
+      "countinStock": 32
+    },
+
+    {
+      "id": 9,
+      "title": "Balenciaga Triple S",
+      "img": "/public/sneakers/sneaker9.png",
+      "description": "Balenciaga White Triple S Sneakers (VIP). Featuring a round toe, a lace-up front fastening, a logo patch at the front, a mesh top, and an embossed logo to the side.",
+      "price": "1256.00",
+      "rating": 4.9,
+      "numReviews": 2,
+      "type": "Low Top",
+      "brand": "Balenciaga",
+      "countinStock": 5
+    },
+
+    {
+      "id": 10,
+      "title": "Balenciaga Speed Trainer",
+      "img": "/public/sneakers/sneaker10.png",
+      "description": "The neat and classy look of the Speed Trainer is proof that there is beauty in simplicity. It is insanely comfortable with memory foam, complete with shock-absorbing components to keep feet relaxed for extended periods. While not the most affordable, this Italian-made product from Balenciaga screams quality. And if you're in the market looking for a kick with exceptional arch support, you should be locking your sights on this bad boy.",
+      "price": "799.99",
+      "rating": 5,
+      "numReviews": 1,
+      "type": "High Top",
+      "brand": "Balenciaga",
+      "countinStock": 2
+    },
+
+    {
+      "id": 11,
+      "title": "Nike Air Max 90 Infrared",
+      "img": "/public/sneakers/sneaker11.png",
+      "description": "The 2020 reissue of the Nike Air Max 90 'Infrared' brings back the iconic OG colorway in honor of the silhouette's 30th anniversary. The reworked construction is true to Tinker Hatfield's original design from 1990, with a white mesh upper with a gray faux suede overlay and black leather mudguards. Vibrant red accents stand out on the shoe's TPU accents and rubber heel, marked with embossed Nike Air branding. A matching red midsole wedge wraps visible Max Air cushioning under the heel.",
+      "price": "999.99",
+      "rating": 4.4,
+      "numReviews": 13,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 11
+    },
+
+    {
+      "id": 12,
+      "title": "Yeezy Boost 350 V2",
+      "img": "/public/sneakers/sneaker12.png",
+      "description": "The Adidas Yeezy Boost 350 V2 highlights muted earth tones throughout its redesigned Primeknit upper. The complementary blend of tan, brown, and gray fibers is arranged in different weaves that create an intricate patchwork-shaped design, offset by a coral-colored sideband on the side of the shoe. The sock-like construction is mounted on a full-length Boost midsole wrapped in semi-translucent rubber for added durability and support. This colorway was released exclusively in Europe, Russia, Ukraine, and the Asia-Pacific region.",
+      "price": "979.99",
+      "rating": 4.4,
+      "numReviews": 12,
+      "type": "Low Top",
+      "brand": "Adidas",
+      "countinStock": 15
+    },
+
+    {
+      "id": 13,
+      "title": "Zoom Pegasus 35",
+      "img": "/public/sneakers/sneaker13.png",
+      "description": "The latest generation of the ZOOM PEGASUS lineage won an edition marked by the floral print used on its upper, maintaining almost an annual NIKE tradition, although the northern hemisphere spring (where the collections are governed) is still a long way off.",
+      "price": "279.99",
+      "rating": 4.1,
+      "numReviews": 12,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 36
+    },
+
+    {
+      "id": 14,
+      "title": "Yeezy Boost 700 'Wave Runner",
+      "img": "/public/sneakers/sneaker14.png",
+      "description": "Originally released in 2017 and re-released globally over the years, the Yeezy Boost 700 Wave Runner appears in a Solid Grey, Chalk White, and Core Black color scheme. It's constructed with a mesh, suede, and leather upper that's enhanced with neon green laces and orange reflective accents on its chunky midsole.",
+      "price": "1249.90",
+      "rating": 4.7,
+      "numReviews": 4,
+      "type": "Low Top",
+      "brand": "Adidas",
+      "countinStock": 10
+    },
+
+    {
+      "id": 15,
+      "title": "Air Jordan 1 Mid SE ' YELLOW TOE '",
+      "img": "/public/sneakers/sneaker15.png",
+      "description": "The Air Jordan 1 Mid Yellow Toe is a new look for the classic mid-top edition of the Jordan 1. The design follows the popular color block design of models like the Bred Toe Jordan 1 High, but with yellow accents. vibrant colors to go along with the black and white base. The construction features a blend of leather and synthetic nubuck on the upper with the standard Jordan 1 outsole unit below. The design is completed with a tongue with the Jumpman logo.",
+      "price": "649.90",
+      "rating": 4.8,
+      "numReviews": 10,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 15
+    },
+
+    {
+      "id": 16,
+      "title": "Nike Air Force 1 S50",
+      "img": "/public/sneakers/sneaker16.png",
+      "description": "NIKE AIR FORCE 1 '07 'FIRST USE - WHITE UNIVERSITY BLUE' revives the 1982 hard floor icon in a daytime style with an all-white and blue look. Durability, feel, and Air-Sole cushioning is still present in this well-known and beloved classic style. Classic Style This original 1982 model is made from genuine and synthetic leather for durability and retro style.",
+      "price": "400.90",
+      "rating": 4.8,
+      "numReviews": 10,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 15
+    },
+
+    {
+      "id": 17,
+      "title": "Vans Old Skool Black White",
+      "img": "/public/sneakers/sneaker17.png",
+      "description": "The Classic Old Skool, Vans' classic skate shoe and the first to feature the iconic side stripe on the side is a low-top lace-up shoe that features durable suede and fabric upper, reinforced toe caps to withstand repeated wear, padded upper for support, and flexibility and the brand's classic vulcanized rubber sole.",
+      "price": "250.90",
+      "rating": 4.9,
+      "numReviews": 31,
+      "type": "Low Top",
+      "brand": "Vans",
+      "countinStock": 27
+    },
+
+    {
+      "id": 18,
+      "title": "Air Jordan 1 Mid SE ' RED TOE '",
+      "img": "/public/sneakers/sneaker18.png",
+      "description": "The Air Jordan 1 Mid RED Toe is a new look for the classic mid-top edition of the Jordan 1. The design follows the popular color block design of models like the Bred Toe Jordan 1 High, but with yellow accents. vibrant colors to go along with the black and white base. The construction features a blend of leather and synthetic nubuck on the upper with the standard Jordan 1 outsole unit below. The design is completed with a tongue with the Jumpman logo.",
+      "price": "649.90",
+      "rating": 4.8,
+      "numReviews": 12,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 10
+    },
+
+    {
+      "id": 19,
+      "title": "Ultraboost DNA X James Bond",
+      "img": "/public/sneakers/sneaker19.png",
+      "description": "Nobody wears a white tuxedo like James Bond. These Adidas running shoes are inspired by the style of the world's most elegant and sophisticated secret agent. Created in honor of the release of the 25th James Bond film, it features responsive cushioning that ensures comfort with every step. Torsion Bar replicates the look of a classic black bow tie Standard shape Lace closure Adidas Primeknit upper Hugs the foot Adaptive running shoe with cushioning Responsive Boost midsole.",
+      "price": "839.90",
+      "rating": 4.8,
+      "numReviews": 12,
+      "type": "Low Top",
+      "brand": "Adidas",
+      "countinStock": 10
+    },
+
+    {
+      "id": 20,
+      "title": "Nike Court Borough",
+      "img": "/public/sneakers/sneaker20.png",
+      "description": "It has a modern design with a synthetic upper that features perforations in strategic places to keep your feet always ventilated. The cushioned inner lining and soft EVA insole provide light cushioning as you step. Lace-up fastening for a better fit and rubber sole with non-slip ribs that allow a firm and secure walk. Don't be left out and match your Nike Court Shoes with jeans, a skirt, and shorts.",
+      "price": "339.90",
+      "rating": 4.9,
+      "numReviews": 30,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 26
+    },
+
+    {
+      "id": 21,
+      "title": "Nike Free 5.0+",
+      "img": "/public/sneakers/sneaker21.png",
+      "description": "One of the first colorways of the Women's Nike Free 5.0+ set to release. Coming in a violet force, bright citrus and anthracite, they feature a violet-based upper with citrus and anthracite accents. A general release, they will be available at select Nike accounts worldwide in late March of 2013.",
+      "price": "449.90",
+      "rating": 4.9,
+      "numReviews": 31,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 45
+    },
+
+    {
+      "id": 22,
+      "title": "Tênis Adidas NMD_R1 Primeknit 'Tri Color'",
+      "img": "/public/sneakers/sneaker22.png",
+      "description": "Adidas' iconic three-Stripes logo occupies the center of the NMD R1 'Tri-Color' pack. Two sneakers ('White' and 'Black') were released on December 26, 2016. This 'Black' version of the 'Tri-Color' NMD R1 pack has a glitch gray/black camo design and blue, white and red three stripes along its side.",
+      "price": "549.90",
+      "rating": 4.4,
+      "numReviews": 5,
+      "type": "Low Top",
+      "brand": "Adidas",
+      "countinStock": 24
+    },
+
+    {
+      "id": 23,
+      "title": "Nike Air Force 1 Low Silver Snake",
+      "img": "/public/sneakers/sneaker23.png",
+      "description": "The 2021 reissue of the Nike Air Force 1 '3M Snake' brings back one of three CO.JP Air Force 1 'B' styles originally released in 2001. The low top features a black leather upper with reflective matte silver overlays. and a fake snakeskin Swoosh. Tonal Nike branding is embroidered on the black leather heel tab, while a classic braided tongue adorns the black leather tongue. The shoe sits atop an air-infused midsole, supported underfoot by an articulated-toe rubber outsole.",
+      "price": "899.90",
+      "rating": 4.9,
+      "numReviews": 7,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 21
+    },
+
+    {
+      "id": 24,
+      "title": "Nike Kyrie 1",
+      "img": "/public/sneakers/sneaker24.png",
+      "description": "Kyrie 1 Nike print sneakers. Featuring a round toe, a rubber sole, a Nike logo, a lace-up front fastening, a branded tongue and a branded insole. Provided by a premium sneaker marketplace that brings together rare, sold out and unused pieces. Each product is rigorously inspected by experts who guarantee its authenticity.",
+      "price": "1299.90",
+      "rating": 4.5,
+      "numReviews": 2,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 3
+    },
+
+    {
+      "id": 25,
+      "title": "Nike Air Force 1 S50",
+      "img": "/public/sneakers/sneaker25.png",
+      "description": "NIKE AIR FORCE 1 '07 revives the 1982 hard floor icon in a daytime style. Durability, feel, and Air-Sole cushioning is still present in this well-known and beloved classic style. Classic Style This original 1982 model is made from genuine and synthetic leather for durability and retro style.",
+      "price": "400.90",
+      "rating": 4.8,
+      "numReviews": 10,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 10
+    },
+
+    {
+      "id": 26,
+      "title": "Chuck Taylor All Star Classic",
+      "img": "/public/sneakers/sneaker26.png",
+      "description": "It started when we took scissors to our original High Top Chucks, turning them into low top basketball shoes. Then the sneaker escaped the court for the streets, cementing its status as an everyday icon. What’s next for the Low Top Chucks is up to you. They’re versatile, classic and entirely yours to wear any way you want, anywhere you want, anytime you want. We just make the shoe. You make the stories.",
+      "price": "120.00",
+      "rating": 4.8,
+      "numReviews": 130,
+      "type": "Low Top",
+      "brand": "Converse",
+      "countinStock": 50
+    },
+
+    {
+      "id": 27,
+      "title": "Nike LeBron 10 BHM Black History Month",
+      "img": "/public/sneakers/sneaker27.png",
+      "description": "LeBron 10 Sneakers - BHM Nike. This model originates from a premium sneaker marketplace, which stocks the hottest limited-edition sneakers of the moment. Imagine a shoe that is hard to find, anywhere in the world, this is one of them.",
+      "price": "2859.99",
+      "rating": 4.8,
+      "numReviews": 1,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 3
+    },
+
+    {
+      "id": 28,
+      "title": "Air Yeezy 2 'Red October' PK ULTRA",
+      "img": "/public/sneakers/sneaker28.png",
+      "description": "When it made its debut in 1985, the rules-breaking Air Jordan laid the foundation for the most famous shoe franchise in the game. In the latest edition, a new combination of white, black, and green takes up the color of last winter's 'Bred Toe'. It features leather, a Nike Air tongue tag, and the iconic Wings logo.",
+      "price": "5679.99",
+      "rating": 4.8,
+      "numReviews": 1,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 3
+    },
+
+    {
+      "id": 29,
+      "title": "Vans x Golf Wang Syndicate Old Skool Pro Green Pink",
+      "img": "/public/sneakers/sneaker29.png",
+      "description": "The piece has a round toe, cut-out details, white leather strap detail, brand tag applied to the back, soft insole, padded heel, rubber sole, topstitched finish, and lace fastening.",
+      "price": "669.00",
+      "rating": 5,
+      "numReviews": 5,
+      "type": "Low Top",
+      "brand": "Vans",
+      "countinStock": 4
+    },
+
+    {
+      "id": 30,
+      "title": "Vans SK8-HI Lite Checkerboard",
+      "img": "/public/sneakers/sneaker30.png",
+      "description": "The black and off-white sneakers are produced in suede. The piece has a medium upper, checkered pattern details, leather stripe sides, topstitching finish, rubber sole, anatomical Ultracush Lite insole, and lace closure.",
+      "price": "329.00",
+      "rating": 5,
+      "numReviews": 20,
+      "type": "High Top",
+      "brand": "Vans",
+      "countinStock": 10
+    },
+
+    {
+      "id": 31,
+      "title": "Air Jordan Spizike",
+      "img": "/public/sneakers/sneaker31.png",
+      "description": "Originally released in 2006, the Air Jordan Spizike has been one of the most sought after hybrid sneakers from Jordan Brand. This shoe features an Air Jordan 3 sole and midsole, Air Jordan 4 “wings,” Air Jordan 5 netting, Air Jordan 6 tongue, and The Air Jordan 20 lasered graphics on the sockliner. It was made to commemorate the Spike Lee “Mars Blackmon” Era.",
+      "price": "1129.00",
+      "rating": 5,
+      "numReviews": 2,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 3
+    },
+
+    {
+      "id": 32,
+      "title": "Air Force 1 '07",
+      "img": "/public/sneakers/sneaker32.png",
+      "description": "A perforated Swoosh logo detail, cutouts, an embroidered rear logo, a round toe, a lace-up front fastening, and a rubber sole. Material: leather. This item is provided by a premium sneaker marketplace that brings together rare and sold-out pieces.",
+      "price": "1269.00",
+      "rating": 4.5,
+      "numReviews": 5,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 6
+    },
+
+    {
+      "id": 33,
+      "title": "Adidas Iniki Runner",
+      "img": "/public/sneakers/sneaker33.png",
+      "description": "Adidas Originals continues to find innovative ways to integrate Boost technology into classic silhouettes. 2017 reintroduces sneaker lovers with the adidas Iniki Runner, a vintage runner that bears an uncanny resemblance to the popular Gazelle model. However, the updated Boost midsole unit gives the shoe the kind of comfort its previous iterations never provided to owners. This Collegiate Navy colorway is quite simple in construction, with Three Stripes branding appearing on the side panel in a simple white colorway. The upper combines soft suede and functional neoprene. The gum bottom completes the show while maintaining the vintage aesthetic in the process.",
+      "price": "269.00",
+      "rating": 4,
+      "numReviews": 6,
+      "type": "Low Top",
+      "brand": "Adidas",
+      "countinStock": 28
+    },
+
+    {
+      "id": 34,
+      "title": "Nike Zoom Kd 9 Mic Drop Oreo Kevin Durant Basket",
+      "img": "/public/sneakers/sneaker34.png",
+      "description": "The Nike KD 9 goes back-to-basics for the release of the Nike KD 9 Mic Drop. The Kevin Durant signature basketball sneaker features a black and white-based Flyknit woven upper with white branding, a blacked out Zoom Air unit and a black sole. The sneaker is inspired by Kevin Durant's mic drop moments.",
+      "price": "479.00",
+      "rating": 4.6,
+      "numReviews": 18,
+      "type": "Low Top",
+      "brand": "Nike",
+      "countinStock": 26
+    },
+
+    {
+      "id": 35,
+      "title": "Nike Zoom Kd 9 Mic Drop Oreo Kevin Durant Basket",
+      "img": "/public/sneakers/sneaker35.png",
+      "description": "Air Jordan 11 Retro BG Jordan Red sneakers. Featuring a short ankle, a round toe, a lace-up front fastening, a rubber sole, a logo to the side, and mesh panels.",
+      "price": "699.00",
+      "rating": 4.9,
+      "numReviews": 4,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 10
+    },
+
+    {
+      "id": 36,
+      "title": "Air Python Lux B",
+      "img": "/public/sneakers/sneaker36.png",
+      "description": "Air Python Lux B leather sneaker from Nike. Featuring a round toe, a signature Nike Air sole, a snakeskin effect, a sock, a lace-up front fastening, a logo patch at the tongue and a branded insole. This model originates from a premium sneaker marketplace, which stocks the hottest limited-edition sneakers of the moment. Imagine a shoe that is hard to find, anywhere in the world, this is one of them.",
+      "price": "1899.00",
+      "rating": 4.9,
+      "numReviews": 2,
+      "type": "High Top",
+      "brand": "Nike",
+      "countinStock": 5
+    }
+  ]
+}
